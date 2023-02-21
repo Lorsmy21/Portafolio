@@ -1,0 +1,220 @@
+body{
+   margin: 0%;
+}
+.Section1{
+    background-color: #ad9f90;
+    height: 625px;
+}
+.Section2{
+    height: 625px;
+    background-image: linear-gradient(to bottom right, rgb(6, 6, 32),rgb(126, 115, 115));
+}
+.Section3{
+    background-color: #ad9f90;
+    height: 625px;
+}
+.Section4{
+    background-color: #8a837c;
+    height: 700px;
+}
+.Section5{
+    height: 300px;
+    background-color: #3b3737e3;
+}
+.Titulo{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family: "Homer Simpson UI";
+    font-size: 200%;
+    margin-bottom: 0%;
+}
+.Carrera{
+    position: absolute;
+    margin-top: 10%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin-left: 650px;
+    width: 620px;
+    margin-top: 285px;
+    font-size: 100%;
+    margin-bottom: 0%;
+}
+.circular--square{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 35px;
+    left: 5%;
+    top: 10%;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+
+
+.Name{
+        border-top-left-radius:  10px;
+        border-top-right-radius: 10px;
+        background-color: black;
+        position: absolute;
+        margin-top: 230px;
+        margin-left: 650px;
+        width: 620px;
+        color: rgb(255, 255, 255);   
+}
+
+.CajTex{
+    position: absolute;
+    
+    width: 635px;
+    margin-left: 48%;
+    margin-right: 7%;
+    margin-top: 25%;
+    font-style: italic;
+    font-size: 23px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.PriCaj{
+    position: absolute;
+    margin-top: 120px;
+    background-color: rgb(241, 241, 224);
+    width: 500px;
+    height: px;
+    font-size: 42px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.SegCaj{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 800px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 23px;
+}
+.TerCaj{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 630px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 23px;
+}
+.CuaCaj{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 800px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 23px;
+}
+.Caj1{
+    position: absolute;
+    background-color: black;
+    margin-left: 800px;
+    margin-top: 100px;
+    border-radius: 20px;
+    color: azure;
+    width: 400px;
+    text-align: center;
+    font-size: 42px;
+}
+.Caj2{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Caj3{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 100px;
+}
+.Caj4{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 400px;
+}
+.Caj5{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 70px;
+}
+.Caj6{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 15px;
+}
+.img1{
+    transition: transform 3s;
+}
+.img1:hover{
+    transform: scale(1.1);
+}
+
+.Caj7{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 925px;
+
+}
+.img2{
+    transition: transform 3s;
+}
+.img2:hover{
+    transform: scale(1.1);
+}
+
+.Caj8{
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 925px;
+
+}
+.img3{
+    transition: transform 3s;
+}
+.img3:hover{
+    transform: scale(1.1);
+}
+
+.Caj9{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 700px;
+}
+.img4{
+    transition: transform 3s;
+}
+.img4:hover{
+    transform: scale(1.1);
+}
+
+.Caj10{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 480px;
+}
+.img5{
+    transition: transform 3s;
+}
+.img5:hover{
+    transform: scale(1.1);
+}
+.Caj11{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.Caj12{
+    position: absolute;
+   margin-left: 500px;
+   margin-top: 50px;
+}
+footer{
+    background-color: cornsilk;
+    margin-top: 0%;
+    position: absolute;
+    width: 100%; 
+}
